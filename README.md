@@ -4,4 +4,4 @@ Petit script sur les nouvelles couleur caméleon.
 
 [F1-POUR-OUVRIR-LE-MENU]
 
-PS : Pour que les couleurs fonctionne il faut être en version Canary et dernier GameBuild.
+PS : Pour que les couleurs fonctionne il faut être en GameBuild 2372 ou 2545. Pas besoin d'être en canary c'est marche en version stable.
